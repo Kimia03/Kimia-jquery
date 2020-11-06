@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#panel,
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#panel1,#flip1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel1 {
+    padding: 50px;
+    display: none;
+}
+
+.ani{
+    background: rgb(152, 191, 33);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 250px;
+}
+.hide{
+    margin-top: 100px;
+}
